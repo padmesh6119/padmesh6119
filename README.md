@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Padmesh </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hacker%20by%20day,%20defender%20by%20night%20🕵️‍♂️;Exploring%20the%20dark%20corners%20of%20the%20web%20🕸️;Transforming%20vulnerabilities%20into%20strengths%20🛠️;&center=true&width=570&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hacker%20by%20day,%20defender%20by%20night%20🕵️‍♂️;Transforming%20vulnerabilities%20into%20strengths%20🛠️;&center=true&width=570&height=45" />
 </p>
 
 <p align="center">
